@@ -44,3 +44,13 @@ The Internet is the largest distributed system ever built, and our mission is to
 - [Discord](https://discord.gg/EyuPFhH4tT)
 - [YouTube](https://www.youtube.com/channel/UCih8azLcI30mJ1CyPnBNhgQ)
 - [Twitter/X](https://x.com/ohohlfeld)
+
+<!-- 
+### Other public repositories
+- https://github.com/ds-ukassel/intellij-plugin-example
+- https://github.com/ds-ukassel/wabt.js
+- https://github.com/ds-ukassel/wabt
+- https://github.com/ds-ukassel/web-engineering-26-exp1-template
+- https://github.com/ds-ukassel/SQLInjectionDemo
+- https://github.com/ds-ukassel/AdventOfCode24
+-->
