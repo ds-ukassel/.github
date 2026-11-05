@@ -18,6 +18,7 @@ The Internet is the largest distributed system ever built, and our mission is to
 - [fit-public](https://github.com/ds-ukassel/fit-public) - Public Issue Tracker and Releases for FIT Newsletter
 
 ### 🛠️ Tools
+- [cdns](https://github.com/ds-ukassel/cdns) - A list of CDN providers with different attributes for identifying them in different datasets with a collection of tools/libraries
 - [backup-mongodb-s3](https://github.com/ds-ukassel/backup-mongodb-s3) - Script/Docker tool to backup MongoDB to S3/MinIO using mongodump
 - [backup-postgres-s3](https://github.com/ds-ukassel/backup-postgres-s3) - Backup PostgreSQL to MinIO/S3
 - [backup-clickhouse-s3](https://github.com/ds-ukassel/backup-clickhouse-s3) - Node/Docker tool to backup Clickhouse to S3/MinIO using builtin "BACKUP TABLE". Supports incremental backups.
