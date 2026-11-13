@@ -1,5 +1,4 @@
-<img width="141" height="97" alt="VS Logo" src="https://github.com/user-attachments/assets/a79f1a37-83cb-4b54-b43a-1bfa9018b112" />
-<img width="1110" height="91" alt="Distributed Systems - University of Kassel" src="https://github.com/user-attachments/assets/a8869151-4c6a-4038-b60d-302e455e9f9c" />
+<img width="600" height="439" alt="Distributed Systems Group Kassel" src="https://github.com/user-attachments/assets/1ffa63ef-27ea-4cda-8b06-f966397ea595" />
 
 ---
 
